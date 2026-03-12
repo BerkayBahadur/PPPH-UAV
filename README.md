@@ -6,7 +6,7 @@ PPPH-UAV is a MATLAB-based open-source tool designed for high-precision processi
 ## 📊 Example Dataset
 Due to GitHub's file size limitations, the example GNSS data and required products (RINEX, SP3, CLK, ATX) are hosted on **Zenodo**.
 
-**Download the dataset here:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18981904.svg)](https://doi.org/10.1007/s10291-026-02051-7)
+**Download the dataset here:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18981904.svg)](https://doi.org/10.5281/zenodo.18981904)
 
 ## 🚀 Quick Start
 1. Clone this repository.
