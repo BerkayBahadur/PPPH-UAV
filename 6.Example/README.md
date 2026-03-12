@@ -7,7 +7,7 @@ Due to GitHub's file size limits (especially for the `.obs`, `.clk`, and `.atx` 
 
 ### 📥 Instructions to Get the Data
 1. **Download the dataset:** [https://doi.org/10.5281/zenodo.18981904](https://doi.org/10.5281/zenodo.18981904)
-2. **Extract:** Unzip the downloaded `PPPH-UAV_Example_Dataset.zip` file.
+2. **Extract:** Unzip the downloaded `6.Example.zip` file.
 3. **Move Files:** Place all extracted files directly into this (`6.Example/`) folder.
 4. **Verify:** Ensure the following files are present in this directory:
    - `FLY_0098.obs` (Observation data)
